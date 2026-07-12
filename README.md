@@ -84,7 +84,7 @@ For every problem, I focus on:
 | Searching | ✅ Completed |
 | Sorting | ✅ Completed |
 | Vectors | ✅ Completed |
-| Strings | 🔄 In Progress |
+| Strings | ✅ In Progress |
 | Linked Lists | ✅ Completed |
 | Stacks | ⏳ Coming Soon |
 | Queues | ⏳ Coming Soon |
