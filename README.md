@@ -86,9 +86,9 @@ For every problem, I focus on:
 | Vectors | ✅ Completed |
 | Strings | ✅ In Progress |
 | Linked Lists | ✅ Completed |
-| Stacks | ⏳ Coming Soon |
-| Queues | ⏳ Coming Soon |
-| Trees | ⏳ Coming Soon |
+| Stacks | ✅ Completed |
+| Queues | ✅ Completed |
+| Trees | ✅ Completed |
 | Graphs | ⏳ Coming Soon |
 | Dynamic Programming | ⏳ Coming Soon |
 
